@@ -34,13 +34,12 @@ Diese Analyse untersucht die Auswirkungen des Iran-Israel-Kriegs im Juni 2025 au
 
 ```
 .
-├── war_market_polygon.ipynb   <- Hauptanalyse-Notebook
-├── README.md                  <- Diese Datei
+├── war_market_polygon.ipynb   
+├── README.md                  
 ```
 
 ## 📌 Ergebnisse
 
-- Rüstungsaktien wie LMT und RTX stiegen nach Kriegsausbruch
 - Energieaktien zeigten erhöhte Volatilität
 - Korrelationen verschoben sich deutlich (z.B. Tech vs. Defense)
 
